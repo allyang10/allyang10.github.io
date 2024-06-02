@@ -7,12 +7,15 @@ title{
 
 p{
     font-size: 200%;
-    font-family: 'Times New Roman', Times, serif;
+    /* font-family: 'Times New Roman', Times, serif; */
     margin: 25px 50px 75px 100px;
-}
-p2{
-    font-size: 140%; 
     font-family: Georgia, 'Times New Roman', Times, serif; 
     text-align: center;
     color:darkslategray
 }
+/* p2{
+    font-size: 140%; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    text-align: center;
+    color:darkslategray
+} */
