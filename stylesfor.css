@@ -3,7 +3,14 @@ title {
     font-size: 230%;
     font-family: Arial, Helvetica, sans-serif;
 }
+h1{
+    text-align: center;
+    font-size: 160%;
+    font-family: Arial, Helvetica, sans-serif;
+}
 p {
+    font-weight: normal;
     font-size: 120%;
     font-family: Arial, Helvetica, sans-serif;
+    color: midnightblue;
 }
