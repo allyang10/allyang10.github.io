@@ -3,16 +3,17 @@ title {
     font-size: 230%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+#body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 h1{
     text-align: center;
     font-size: 200%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h2{
     font-size: 130%;
     font-weight: none;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 170px;
@@ -21,7 +22,6 @@ h2{
 h3{
     font-weight: none;
     font-size: 100%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 170px;
@@ -30,7 +30,6 @@ h3{
 p {
     text-decoration: none;
     font-size: 120%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: midnightblue;
     text-align: center;
     margin-top: 100px;
@@ -41,7 +40,6 @@ p {
 a {
     text-decoration: none;
     font-size: 120%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: midnightblue;
     text-align: center;
 }
