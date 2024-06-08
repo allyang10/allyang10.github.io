@@ -5,6 +5,10 @@ title {
 }
 #body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 170px;
+    margin-left: 170px;
 }
 h1{
     text-align: center;
@@ -14,28 +18,16 @@ h2{
     font-size: 130%;
     font-weight: none;
     text-align: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 170px;
-    margin-left: 170px;
 }
 h3{
     font-weight: none;
     font-size: 100%;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 170px;
-    margin-left: 170px;
 }
 p {
     text-decoration: none;
     font-size: 120%;
     color: midnightblue;
     text-align: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 170px;
-    margin-left: 170px;
 }
 a {
     text-decoration: none;
