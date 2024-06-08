@@ -13,19 +13,20 @@ h1{
 h2{
     font-size: 130%;
     font-weight: 150;
+    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 100px;
     margin-bottom: 100px;
-    margin-right: 200px;
-    margin-left: 200px;
+    margin-right: 170px;
+    margin-left: 170px;
 }
 h3{
     font-size: 100%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 100px;
     margin-bottom: 100px;
-    margin-right: 200px;
-    margin-left: 200px;
+    margin-right: 170px;
+    margin-left: 170px;
 }
 p {
     text-decoration: none;
@@ -35,8 +36,8 @@ p {
     text-align: center;
     margin-top: 100px;
     margin-bottom: 100px;
-    margin-right: 200px;
-    margin-left: 200px;
+    margin-right: 170px;
+    margin-left: 170px;
 }
 a {
     text-decoration: none;
